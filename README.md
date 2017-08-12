@@ -1,1 +1,2 @@
 # hello-world
+I am brand new to coding with no prior experience professionally or even just messing around. I am taking a coding school online which certainly adds challenges in addition to my 50 hr a week work schedule. I don't know anyone in the tech sector so my aim is to network and build relationships so that I will have a better understanding of what is available in my market and find a place where I feel my work will make an impact and be an integral part of a team. 
